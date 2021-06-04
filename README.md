@@ -1,10 +1,10 @@
-<!-- DO NOT REMOVE - contributor_list:data:start:["Matt-Gleich"]:end -->
+<!-- DO NOT REMOVE - contributor_list:data:start:["gleich"]:end -->
 
 # snipconv
 
-[![lint](https://github.com/Matt-Gleich/snipconv/actions/workflows/lint.yml/badge.svg)](https://github.com/Matt-Gleich/snipconv/actions/workflows/lint.yml)
-[![build](https://github.com/Matt-Gleich/snipconv/actions/workflows/build.yml/badge.svg)](https://github.com/Matt-Gleich/snipconv/actions/workflows/build.yml)
-[![test](https://github.com/Matt-Gleich/snipconv/actions/workflows/test.yml/badge.svg)](https://github.com/Matt-Gleich/snipconv/actions/workflows/test.yml)
+[![lint](https://github.com/gleich/snipconv/actions/workflows/lint.yml/badge.svg)](https://github.com/gleich/snipconv/actions/workflows/lint.yml)
+[![build](https://github.com/gleich/snipconv/actions/workflows/build.yml/badge.svg)](https://github.com/gleich/snipconv/actions/workflows/build.yml)
+[![test](https://github.com/gleich/snipconv/actions/workflows/test.yml/badge.svg)](https://github.com/gleich/snipconv/actions/workflows/test.yml)
 
 🌲 Convert your vscode snippets to vim snippets
 
@@ -17,7 +17,7 @@ We would love to have you contribute! Please read the [contributing guide](CONTR
 ## 👥 Contributors
 
 
-- **[@Matt-Gleich](https://github.com/Matt-Gleich)**
+- **[@gleich](https://github.com/gleich)**
 
 <!-- DO NOT REMOVE - contributor_list:end -->
 <!-- prettier-ignore-end -->

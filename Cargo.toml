@@ -4,8 +4,8 @@ version = "0.1.0"
 description = "🌲 Convert your vscode snippets to vim snippets"
 authors = ["Matthew Gleich <email@mattglei.ch>"]
 edition = "2018"
-repository = "https://github.com/Matt-Gleich/snipconv/"
-homepage = "https://github.com/Matt-Gleich/snipconv/"
+repository = "https://github.com/gleich/snipconv/"
+homepage = "https://github.com/gleich/snipconv/"
 license = "MPL-2.0"
 keywords = []
 
